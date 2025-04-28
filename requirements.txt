@@ -1,4 +1,5 @@
 tensorflow==2.18.0
+box
 pandas 
 dvc
 mlflow==2.2.2
